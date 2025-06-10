@@ -18,3 +18,5 @@
 [1,"\r[16/16] Collection BH11108 to BH11924.qmd\n"]
 [1,"\n"]
 [1,"pandoc \n  to: latex\n  output-file: index.tex\n  standalone: true\n  toc: true\n  number-sections: true\n  top-level-division: chapter\n  pdf-engine: xelatex\n  variables:\n    graphics: true\n    tables: true\n    secnumdepth: 6\n  default-image-extension: pdf\n  toc-depth: 6\n  \nmetadata\n  crossref:\n    chapters: true\n  documentclass: scrbook\n  papersize: letter\n  block-headings: true\n  fontsize: 9pt\n  number-depth: 6\n  title: Phelps Collection - Baha'u'llah\n  subtitle: AI Generated with author notes\n  author: Stephen Phelps\n  \n"]
+[1,"\nRendering PDF\nrunning xelatex - 1\n"]
+[1,"  This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex)\n   restricted \\write18 enabled.\n  entering extended mode\n  \nrunning xelatex - 2\n"]
