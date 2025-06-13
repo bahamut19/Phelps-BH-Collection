@@ -1,6 +1,10 @@
 {
     "sortOrder": [
         {
+            "columnIndex": 3,
+            "ascending": false
+        },
+        {
             "columnIndex": 4,
             "ascending": false
         },
@@ -9,5 +13,5 @@
             "ascending": false
         }
     ],
-    "path": "C:/Users/joshu/Dropbox/Documents/Religion/Baha'i Faith/Phelps-BH-Collection/_book"
+    "path": "C:/Users/joshu/Dropbox/Documents/Religion/Baha'i Faith/Phelps-BH-Collection"
 }
